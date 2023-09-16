@@ -1,4 +1,8 @@
-<h3 align="center">A passionate fullstack web developer from India</h3>
+![FullStack Web Developer (2)](https://user-images.githubusercontent.com/102378038/235421317-4ee4c7e4-53bc-4c2e-b88f-4a834811ef63.gif)
+
+<h1 align="center">Hi 👋, I'm Garvit</h1>
+
+<h3 align="center">**A passionate fullstack web developer from India**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvitgabgab&label=Profile%20views&color=0e75b6&style=flat" alt="garvitgabgab" /> </p>
 
