@@ -100,3 +100,5 @@
 <i>Happy Coding!</i> 😊
 
 </div>
+
+![snake gif](https://github.com/garvitgabgab/garvitgabgab/blob/output/github-contribution-grid-snake.gif)
