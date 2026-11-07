@@ -97,8 +97,4 @@
 
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=darcula" alt="Error fetching resource, Refresh again to view Jokes Card" theme="prussian" width='900' />
 
-<i>Happy Coding!</i> 😊
-
-</div>
-
-![snake gif](https://github.com/garvitgabgab/garvitgabgab/blob/output/github-contribution-grid-snake.gif)
+<i>Happy Coding!</i> 
